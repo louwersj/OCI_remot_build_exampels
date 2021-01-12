@@ -11,7 +11,7 @@ trigger:
 
 pool:
   #vmImage: 'ubuntu-latest'
-  name: environment_dev_0
+  name: OCI Pool
 
 steps:
 - script: echo Hello, world!
