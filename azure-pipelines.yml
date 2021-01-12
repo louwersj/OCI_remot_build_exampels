@@ -5,6 +5,7 @@
 
 trigger:
 - main
+environment: environment_dev_0
 
 pool:
   vmImage: 'ubuntu-latest'
